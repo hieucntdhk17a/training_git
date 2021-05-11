@@ -1,0 +1,12 @@
+D:\BIN\app_xin\app_xin\bin\Debug\app_xin.exe.config
+D:\BIN\app_xin\app_xin\bin\Debug\app_xin.exe
+D:\BIN\app_xin\app_xin\bin\Debug\app_xin.pdb
+D:\BIN\app_xin\app_xin\obj\x86\Debug\app_xin.Form1.resources
+D:\BIN\app_xin\app_xin\obj\x86\Debug\app_xin.Properties.Resources.resources
+D:\BIN\app_xin\app_xin\obj\x86\Debug\app_xin.csproj.GenerateResource.Cache
+D:\BIN\app_xin\app_xin\obj\x86\Debug\app_xin.exe
+D:\BIN\app_xin\app_xin\obj\x86\Debug\app_xin.pdb
+C:\Users\hieu\Desktop\app_xin\app_xin\obj\x86\Debug\app_xin.csprojAssemblyReference.cache
+C:\Users\hieu\Desktop\app_xin\app_xin\obj\x86\Debug\app_xin.Form1.resources
+C:\Users\hieu\Desktop\app_xin\app_xin\obj\x86\Debug\app_xin.csproj.GenerateResource.cache
+C:\Users\hieu\Desktop\app_xin\app_xin\obj\x86\Debug\app_xin.exe
